@@ -21,7 +21,7 @@ _Resumo_
 
 [Evento no meetup.com](https://www.meetup.com/pt-BR/IterisTechTalks/events/265717188/).
 
-#### #2 Tech Talks | #2 Meetup de Cloud & DevOps
+### #2 Tech Talks | #2 Meetup de Cloud & DevOps
 _Resumo_
 
 - Segurança de APIs na AWS – por Agnaldo de Almeida.
