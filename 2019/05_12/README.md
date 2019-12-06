@@ -1,10 +1,10 @@
-# #1 Tech Talks | #3 Meetup de Mobile
+# #2 Tech Talks | #2 Meetup de Cloud & DevOps
 _Resumo_
 
-- Enriquecendo a experiência do usuário com o uso de caches no iOS - por Bárbara Barone e Marlon Burnett.
-- Os desafios do Flutter em um projeto real - por Rodrigo Cossa.
-- Cinto de utilidades para o desenvolvimento iOS - por Rafael Quixabeira.
+- Segurança de APIs na AWS – por Agnaldo de Almeida.
+- Hospedando um SPA no Azure– por Douglas Pereira.
+- Mesa redonda: começando em Cloud.
 
-[Conteúdo das apresentações](https://github.com/IterisConsultoria/techtalks/tree/master/2019/31_10).
+[Conteúdo das apresentações](https://github.com/IterisConsultoria/techtalks/tree/master/2019/05_12).
 
-[Evento no meetup.com](https://www.meetup.com/pt-BR/IterisTechTalks/events/265717188/).
+[Evento no meetup.com](https://www.meetup.com/pt-BR/IterisTechTalks/events/266731558).
